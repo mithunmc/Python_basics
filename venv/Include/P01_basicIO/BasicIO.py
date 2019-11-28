@@ -1,0 +1,5 @@
+print("Enter an integer a: ")
+a = input()
+print ("Enter a string b: ")
+b = input()
+print("a: "+a+", b: "+b) 
